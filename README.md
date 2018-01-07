@@ -23,7 +23,7 @@
 
 ```
 
-### 3.初始化插件
+## 3.初始化插件
 ```javascript
   new DParallax('.box');
 
